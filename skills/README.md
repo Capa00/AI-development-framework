@@ -40,9 +40,9 @@ Quando una skill evolve in modo significativo, è preferibile creare una nuova v
 Convenzione suggerita:
 
 ```
-<nome_sskill>
-<nome_skill>_v2_0
-<nome_skill>_v3_0
+<nome-skill>-v1-0
+<nome-skill>-v2-0
+<nome-skill>-v3-0
 ```
 
 ## Relazione con gli esperimenti
